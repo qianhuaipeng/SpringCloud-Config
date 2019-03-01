@@ -1,5 +1,5 @@
 
->转载请标明出处： 
+>转载： 
 > http://blog.csdn.net/forezp/article/details/70148833
 > 本文出自[方志朋的博客](http://blog.csdn.net/forezp)
 > 
@@ -93,25 +93,4 @@ Spring Cloud Finchley; Spring Boot 2.0.3
 * [ 如何用Redlock实现分布式锁](http://blog.csdn.net/forezp/article/details/70305336)
 * [ 如何在IDEA启动多个Spring Boot工程实例](http://blog.csdn.net/forezp/article/details/76408139)
 * [ JWT如何在Spring Cloud微服务系统中在服务相互调时传](http://blog.csdn.net/forezp/article/details/78676036)
-
-
-
-
-### 怎么支持我？
-
-* 这个系列会持续更新，敬请关注！
-
-
-* 关注我的公众号,精彩内容不能错过！
-
-<div>
-    <p align="center">
-        <img src="https://www.fangzhipeng.com/img/avatar.jpg" width="258" height="258"/>
-        <br>
-        扫码关注有惊喜
-    </p>
-    <p align="center" style="margin-top: 15px; font-size: 11px;color: #cc0000;">
-        <strong>（转载本站文章请注明作者和出处 <a href="https://www.fangzhipeng.com">方志朋的博客</a>）</strong>
-    </p>
-</div>
 
