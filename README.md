@@ -29,7 +29,7 @@ github下载：[https://github.com/forezp/SpringCloudLearning](https://github.co
 - [Spring Boot Admin 2.1.0 全攻略](https://blog.csdn.net/forezp/article/details/87075651)
 -  [阿里分布式事务框架GTS开源了！](https://blog.csdn.net/forezp/article/details/86634907)
 
-### Finchley版本 
+### Finchley版本   
 Spring Cloud Finchley; Spring Boot 2.0.3
 
 * [史上最简单的 SpringCloud 教程 | 第一篇: 服务的注册与发现（Eureka）(Finchley版本)](http://blog.csdn.net/forezp/article/details/81040925)
