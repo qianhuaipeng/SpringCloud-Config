@@ -1,4 +1,4 @@
-                 
+                   
 >转载：   
 > http://blog.csdn.net/forezp/article/details/70148833  
 > 本文出自[方志朋的博客](http://blog.csdn.net/forezp)
@@ -30,7 +30,7 @@ github下载：[https://github.com/forezp/SpringCloudLearning](https://github.co
 -  [阿里分布式事务框架GTS开源了！](https://blog.csdn.net/forezp/article/details/86634907)
 
 ### Finchley版本   
-Spring Cloud Finchley; Spring Boot 2.0.3   
+Spring Cloud Finchley; Spring Boot 2.0.3     
 
 * [史上最简单的 SpringCloud 教程 | 第一篇: 服务的注册与发现（Eureka）(Finchley版本)](http://blog.csdn.net/forezp/article/details/81040925)
 * [史上最简单的SpringCloud教程 | 第二篇: 服务消费者（rest+ribbon）(Finchley版本)](http://blog.csdn.net/forezp/article/details/81040946)
