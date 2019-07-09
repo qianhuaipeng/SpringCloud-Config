@@ -84,7 +84,7 @@ Spring Cloud Finchley; Spring Boot 2.0.3
 * [ 史上最简单的 SpringCloud 教程 | 第十四篇: 服务注册(consul)](http://blog.csdn.net/forezp/article/details/70245644)
 *  未完。。。
 *  还有很多篇。。。
- 
+   
 ### 番外篇：
 
 * [如何使用MongoDB+Springboot实现分布式ID?](http://blog.csdn.net/forezp/article/details/69056017)
